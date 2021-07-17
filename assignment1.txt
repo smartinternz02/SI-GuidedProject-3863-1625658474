@@ -1,0 +1,23 @@
+The 20 use cases of IOT are:
+
+1.Autonomus and connecting vehicles
+2.Smart Watches,Fitness Trackers
+3.Machine to Machine connected devices
+4.Supply chains
+5.Drones for photography and cinematography
+6.Smart city:Energy ,Parking etc
+7.Healthcare
+9.Smart Agriculture
+10.Inventory tracking
+11.Security purposes
+12.Smart grids
+13.Environmental monitoring
+14.Smart Logistics
+15.Home Intrusion Detection systems
+16.smart retailing in markets
+17.Water Management and Waste Management
+18.Digital Twins
+19.Transportaion and mobility
+20.Smart robotics
+
+These are the wide range of applications by using IOT that in we use in the present day scenario.
